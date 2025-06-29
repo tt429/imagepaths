@@ -1,0 +1,117 @@
+const BASE_URL = "https://raw.githubusercontent.com/tt429/ministry-questions//main/";
+
+        // Image paths data with hidden images support
+        const imagePaths = {
+            sixth_primary: {
+                
+            },
+            third_intermediate: {
+            },
+            sixth_preparatory: {
+                "scientific": {
+                    // مسار للأحيائي (للسنوات التي تتطلب تخصص)
+                    
+                    // مسار مشترك للسنوات التي لا تتطلب تخصص
+                    "common": {
+                        "arabic":{
+                            "2024":{
+                                "prep":[
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/page1q.jpg", hidden: false},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/page2q.jpg", hidden: false},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea(1).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea (2).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea%20%283%29.jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea (4).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea (5).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea (6).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea (7).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea (8).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea (9).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea (10).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/prep/pagea (11).jpg", hidden: true},
+                                ],
+                                "1":[
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/page1q.jpg", hidden: false},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/page2q.jpg", hidden: false},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (1).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (2).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (3).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (4).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (5).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (6).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (7).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (8).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (9).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (10).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (11).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round1/pagea (12).jpg", hidden: true}, 
+                                    
+                                    
+                                ],
+                                "2":[
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/page1q.jpg", hidden: false},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/page2q.jpg", hidden: false},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (1).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (2).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (3).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (4).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (5).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (6).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (7).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (8).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (9).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (10).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (11).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (12).jpg", hidden: true}, 
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round2/pagea (13).jpg", hidden: true}, 
+                                ],
+                                "3":[
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/page1q.jpg", hidden: false},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/page2q.jpg", hidden: false},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (1).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (2).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (3).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (4).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (5).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (6).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (7).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (8).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (9).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (10).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (11).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (12).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (13).jpg", hidden: true},
+                                    {src: BASE_URL + "images/sixth_preparatory/scientific/common/arabic/2024/round3/pagea (14).jpg", hidden: true},
+                                ],
+                            }
+                        },
+                    
+                        
+                    
+
+                    
+                    },
+                },
+                //مسار للادبي
+                "literary": {
+                    "islamic":{
+                        "2024":{
+                            "prep":[
+                                {src: BASE_URL + "images/sixth_preparatory/literary/islamic/2024/prep/page1q.jpg", hidden: false},
+                                {src: BASE_URL + "images/sixth_preparatory/literary/islamic/2024/prep/page1a!.jpg", hidden: false},
+                            ],
+                            "1":[
+                                {src: BASE_URL + "images/sixth_preparatory/literary/islamic/2024/round1/page1q.jpg", hidden: false},
+                                {src: BASE_URL + "images/sixth_preparatory/literary/islamic/2024/round1/page1a!.jpg", hidden: false},
+                            ],
+                            "2":[
+                                {src: BASE_URL + "images/sixth_preparatory/literary/islamic/2024/round2/page1q.jpg", hidden: false},
+                                {src: BASE_URL + "images/sixth_preparatory/literary/islamic/2024/round2/page1a!.jpg", hidden: false},
+                            ],
+                            
+                        },
+                    }
+                }
+            }
+                        
+        };
