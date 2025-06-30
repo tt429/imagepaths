@@ -1,4 +1,4 @@
-{ "imagePaths":{
+{ 
   "sixth_preparatory": {
     "scientific": {
       "common": {
@@ -20,7 +20,7 @@
     }
   }
 }
-}
+
 
 
 
