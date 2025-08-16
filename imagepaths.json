@@ -13285,7 +13285,7 @@
             "2024":{
                "prep":[
                   {
-                     "src":"images/sixth_preparatory/literary/islamic/2024/prep/page1q!.jpg",
+                     "src":"images/sixth_preparatory/literary/islamic/2024/prep/page1q.jpg",
                      "hidden":false
                   },
                   {
@@ -13483,7 +13483,7 @@
             "2024":{
                "prep":[
                   {
-                     "src":"images/sixth_preparatory/literary/arabic/2024/prep/page1q.jpg",
+                     "src":"images/sixth_preparatory/literary/arabic/2024/prep/page1q!.jpg",
                      "hidden":false
                   },
                   {
@@ -15654,4 +15654,5 @@
       }
    }
 }
+
 
