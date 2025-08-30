@@ -11241,6 +11241,16 @@
                         "src":"images/sixth_preparatory/scientific/common/arabic/2025/round1/pagea (14).jpg",
                         "hidden":true
                      }
+                  ],
+                  "2":[
+                     {
+                        "src":"images/sixth_preparatory/scientific/common/arabic/2025/round1/page1q.jpg",
+                        "hidden":false
+                     },
+                     {
+                        "src":"images/sixth_preparatory/scientific/common/arabic/2025/round1/page2q.jpg",
+                        "hidden":false
+                     }
                   ]
                },
                "2024":{
