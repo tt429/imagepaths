@@ -12305,6 +12305,16 @@
                         "src":"images/sixth_preparatory/scientific/common/english/2025/round1/pagea (7).jpg",
                         "hidden":true
                      }
+                  ],
+                  "2":[
+                     {
+                        "src":"images/sixth_preparatory/scientific/common/english/2025/round2/page1q.jpg",
+                        "hidden":false
+                     },
+                     {
+                        "src":"images/sixth_preparatory/scientific/common/english/2025/round2/page2q.jpg",
+                        "hidden":false
+                     }
                   ]
                },
                "2024":{
